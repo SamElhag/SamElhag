@@ -1,4 +1,9 @@
 <h1 align="center">Hi 🚀, I'm Sam</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sam-elhag-b82312102/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/>
+  </a>
+</p>
 <br/>
 <h3 align="center">Languages and Tools:</h3>
 <table border="0" cellspacing="0" cellpadding="8" align="center">
